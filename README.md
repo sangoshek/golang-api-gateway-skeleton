@@ -1,4 +1,4 @@
-"# golang-api-gateway-skeleton" 
+# golang-api-gateway-skeleton #
 
 This is a skeleton project to use golang as a API gateway to consume other resourses.
 
